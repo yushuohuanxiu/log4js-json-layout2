@@ -27,7 +27,7 @@ logger.info('JsonObject:', {name: 'yushuohuanxiu', date: [{id: 1234}, {id: 4567,
 
 ### log4js default log
 
-```json
+```
 [2021-10-29T14:09:37.362] [INFO] default - JsonObject: {
   name: 'yushuohuanxiu',
   date: [ { id: 1234 }, { id: 4567, goods: [Array] } ]
@@ -36,6 +36,6 @@ logger.info('JsonObject:', {name: 'yushuohuanxiu', date: [{id: 1234}, {id: 4567,
 
 ### use log4js-json-layout2 log
 
-```json
+```
 [2021-10-29T14:10:19.190] [INFO] default - JsonObject: {"name":"yushuohuanxiu","date":[{"id":1234},{"id":4567,"goods":[{"name":"pen","id":8879},{"name":"pencil","id":8880}]}]}
 ```
