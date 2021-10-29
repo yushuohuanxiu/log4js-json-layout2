@@ -12,7 +12,7 @@
   },
   "author": "nulijiacanfan <nulijiacanfan@gmail.com>",
   "license": "ISC",
-  "homepage": "https://github.com/id0Sch/log4js-json-layout#readme",
+  "homepage": "https://github.com/yushuohuanxiu/log4js-json-layout2#readme",
   "dependencies": {
     "log4js": "^6.3.0"
   }
