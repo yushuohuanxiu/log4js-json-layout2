@@ -1,7 +1,7 @@
 {
   "name": "log4js-json-layout2",
   "version": "1.0.1",
-  "description": "Improve log4js log Object type",
+  "description": "Improve log Object type for log4js-node.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +15,6 @@
   "homepage": "https://github.com/yushuohuanxiu/log4js-json-layout2#readme",
   "dependencies": {
     "log4js": "^6.3.0"
-  }
+  },
+  "keywords": ["log4js", "json", "object", "log"]
 }
