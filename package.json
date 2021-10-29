@@ -1,14 +1,18 @@
 {
   "name": "log4js-json-layout2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Improve log4js log Object type",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yushuohuanxiu/log4js-json-layout2.git"
+  },
+  "author": "nulijiacanfan <nulijiacanfan@gmail.com>",
   "license": "ISC",
+  "homepage": "https://github.com/id0Sch/log4js-json-layout#readme",
   "dependencies": {
     "log4js": "^6.3.0"
   }
