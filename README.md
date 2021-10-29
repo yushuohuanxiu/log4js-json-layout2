@@ -18,7 +18,7 @@ Just need to require('log4js-json-layout2') under require('log4js')
 
 ```js
 const log4js = require('log4js');
-require('./jsonLayout');
+require('log4js-json-layout2');
 const logger = log4js.getLogger();
 logger.level = 'debug';
 
