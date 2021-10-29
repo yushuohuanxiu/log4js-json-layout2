@@ -1,0 +1,15 @@
+{
+  "name": "log4js-json-layout2",
+  "version": "1.0.0",
+  "description": "Improve log4js log Object type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "log4js": "^6.3.0"
+  }
+}
