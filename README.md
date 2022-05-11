@@ -7,7 +7,7 @@ Improve log Object type for [log4js-node](https://github.com/nomiddlename/log4js
 ## Installation
 
 ```bash
-npm install log4js-json-layout2 --save
+npm install log4js-json-layout2
 ```
 
 ## Usage
