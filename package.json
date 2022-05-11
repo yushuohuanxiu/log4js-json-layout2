@@ -1,6 +1,6 @@
 {
   "name": "log4js-json-layout2",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Improve log Object type for log4js-node.",
   "main": "index.js",
   "scripts": {
